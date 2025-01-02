@@ -3,12 +3,12 @@ Full song accuracy over 60%. Whole notes from treble displayed with 4 measures o
 Friday
 Full song accuracy over 70%. Interval is acknowledged.
 Saturday
-Full song accuracy over 80%. Ideal teaching method added.
+Full song accuracy over 80%. Bass stat is acknowledged.
 Sunday
-Full song accuracy over 95%. Ideal teaching method added.
+Full song accuracy over 95%. Accidentals stat is acknowledged.
 Monday
-Full song accuracy at 100%.
+Full song accuracy at 100%. Node js backend is complete and connected to frontend.
 Tuesday
-Audio midi always correct.
+Audio midi always correct. Listens after play line.
 Wednesday
-Backend complete.
+Backend complete. Listens to treble as well as bass. All user stats acknowledged.
