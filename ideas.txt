@@ -1,11 +1,11 @@
 Thursday
-Full song accuracy over 60%.
+Full song accuracy over 60%. Whole notes from treble displayed with 4 measures of space.
 Friday
-Full song accuracy over 70%.
+Full song accuracy over 70%. Interval is acknowledged.
 Saturday
-Full song accuracy over 80%.
+Full song accuracy over 80%. Ideal teaching method added.
 Sunday
-Full song accuracy over 95%.
+Full song accuracy over 95%. Ideal teaching method added.
 Monday
 Full song accuracy at 100%.
 Tuesday
