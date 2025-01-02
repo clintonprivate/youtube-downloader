@@ -1,0 +1,14 @@
+Thursday
+Full song accuracy over 60%.
+Friday
+Full song accuracy over 70%.
+Saturday
+Full song accuracy over 80%.
+Sunday
+Full song accuracy over 95%.
+Monday
+Full song accuracy at 100%.
+Tuesday
+Audio midi always correct.
+Wednesday
+Backend complete.
