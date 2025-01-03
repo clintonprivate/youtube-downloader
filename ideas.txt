@@ -12,3 +12,9 @@ Wednesday
 Backend complete. Listens to treble as well as bass.
 Thursday
 All user stats acknowledged.
+
+Create correct first phrase of current song.
+Check if the notes in melody without duration are correct.
+Manually check if the start time of required syllable matches correct duration or if it's less or more and by how much. This will allow us to understand why timing isn't completely accurate sometimes.
+Make syllables splitting very accurate.
+Check if phonetic splitting done by align is even accurate, if when done on non English words, it's worse.
