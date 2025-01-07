@@ -1,4 +1,4 @@
 Ask ai what note it hears in 100.wav, ask how it got that result and try to replicate it even if it isnt the human heard note.
 
 Order of progress
-Clef: 2, 
+Clef: 2, Quantity: 2, Quantity: 3, Duration: Half, 
