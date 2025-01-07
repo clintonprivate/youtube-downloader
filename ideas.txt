@@ -1,1 +1,5 @@
 Visualize the dominant frequency.
+
+Ask AI for debugging tips. 99.wavvis supposed to be A3.
+
+Directly print 99.wav result in detection code.
