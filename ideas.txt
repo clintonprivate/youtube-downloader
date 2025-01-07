@@ -1,5 +1,3 @@
-Visualize the dominant frequency.
+Use first syllable time start to know when the melody starts.
 
-Ask AI for debugging tips. 99.wavvis supposed to be A3.
-
-Directly print 99.wav result in detection code.
+From the melody start, adjust segment notes to nearest in melody.
