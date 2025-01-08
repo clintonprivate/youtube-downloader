@@ -1,1 +1,5 @@
 Split on words not syllables.
+Prevent delay.
+Add more caching.
+Add wait text.
+Fix infrequent lyric bug.
