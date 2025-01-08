@@ -1,3 +1,7 @@
+Print out all phonemes, with their time starts and ends to confirm if when split correctly, will get correct durations for first phrase.
+
+
+
 A3 -> A3
 A#3 -> A3
 A3 -> A3
