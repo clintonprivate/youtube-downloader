@@ -1,5 +1,6 @@
-Split on words not syllables.
-Prevent delay.
-Add more caching.
-Add wait text.
-Fix infrequent lyric bug.
+Use regex to look only for CV patterns.
+areumdaun
+reu
+dau
+
+Loop through matches checking if next word is not the start index of another match.
