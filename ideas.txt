@@ -1,6 +1,1 @@
-Use regex to look only for CV patterns.
-areumdaun
-reu
-dau
-
-Loop through matches checking if next word is not the start index of another match.
+Forget lyrics. Get correct duration first.
