@@ -1,2 +1,2 @@
 Forget lyrics. Get correct duration first.
-Make audio clearer/monophonic before using librosa. Start with phrases again.
+Make audio clearer/monophonic before using librosa. Do full songs instead of phrases.
