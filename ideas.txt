@@ -3,3 +3,5 @@ Acknowledge key signature.
 Listen for octave and accidental in audio midi.
 Acknowledge duration.
 Add second phrase to fixed sheet music.
+
+Make each item in note choices in generate training.js an array.
