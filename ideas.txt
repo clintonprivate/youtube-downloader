@@ -1,3 +1,5 @@
 Acknowledge chord quantity.
 Acknowledge key signature.
 Listen for octave and accidental in audio midi.
+Acknowledge duration.
+Add second phrase to fixed sheet music.
