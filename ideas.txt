@@ -1,1 +1,3 @@
-Fix only d and e bug.
+Fix only d and e bug. - Change with accidentals to true. Adjust treble range to include down to A3. Also change that in bass to avoid overlapping.
+
+
