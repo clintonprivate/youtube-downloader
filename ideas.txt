@@ -4,3 +4,6 @@ Add achievements: 4 measures of space, half note and all treble notes except f a
 Fix bug of F# missing.
 
 Test: 0 measures of space, quarter note, all notes including f and f#.
+
+
+Create test.xml with notes to test when it becomes small notes.
