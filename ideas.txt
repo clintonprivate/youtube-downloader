@@ -28,3 +28,5 @@ Both clefs: 500 correctly played notes in a row.
 Implement correct achievements method.
 
 Complete fixed sheet music melody.
+
+Fix game.js.
