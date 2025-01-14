@@ -1,1 +1,1 @@
-
+Test with 0 measures of space, half note and all treble notes, not just e and d.
