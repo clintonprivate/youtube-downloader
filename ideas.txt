@@ -1,3 +1,7 @@
 Fix only d and e bug. - Change with accidentals to true. Adjust treble range to include down to A3. Also change that in bass to avoid overlapping.
 
+Adjust shortest note duration to eighth notes.
+
+Fix smaller eighth notes bug.
+
 
