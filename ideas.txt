@@ -1,1 +1,2 @@
-Test with 0 measures of space, half note and all treble notes, not just e and d.
+Add achievements: 4 measures of space, half note and all treble notes except f and f#. - 162
+4 measures of space, quarter note and all treble notes except f and f#. - 162
