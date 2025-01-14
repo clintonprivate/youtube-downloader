@@ -1,16 +1,6 @@
-Fix only d and e bug. - Change with accidentals to true. Adjust treble range to include down to A3. Also change that in bass to avoid overlapping.
-
-Adjust shortest note duration to eighth notes.
-
 Fix smaller eighth notes bug.
 
 Allow rests of different durations to be added.
-
-Add achievement to achievements.txt and achievements.html: Played 100 correct notes with 4 measures of space in between, that were only the notes e and d.
-
-Create achievements.js.
-
-Create variable of ranks which are in order: Bronze, silver, ruby, sapphire, amber, pearl, amethyst, emerald, obsidian, sunstone, platinum, diamond.
 
 Fix visual alignment.
 
