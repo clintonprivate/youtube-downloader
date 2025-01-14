@@ -30,3 +30,5 @@ Implement correct achievements method.
 Complete fixed sheet music melody.
 
 Fix game.js.
+
+Align melody to background music.
