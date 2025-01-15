@@ -1,5 +1,10 @@
 Add achievements: 4 measures of space, half note and all treble notes except f and f#. - 162
 4 measures of space, quarter note and all treble notes except f and f#. - 162
 
+
+Add these to melody readme.
 Melody ideas:
 If a note is heard 8 times in a row, it just has to be correct.
+
+Questions:
+How do we split into repeated notes?
