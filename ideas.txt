@@ -1,1 +1,5 @@
 Add achievements: 4 measures of space, eighth notes and all treble notes. - 33
+
+
+Melody ideas
+Smooth shaking with a third filter that is as simple as follows. Loop through notes and if note to the left is same as note to the right, append note to the right to new array.
