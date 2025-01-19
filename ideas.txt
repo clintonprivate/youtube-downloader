@@ -1,5 +1,1 @@
-Add achievements: 4 measures of space, eighth notes and all treble notes. - 33
-
-
-Melody ideas
-Mark places in the current melody where it shakes to the wrong note, calculate its segment position and figure out what it should say instead and why it doesn't.
+- Play one note of the second or third chord and write down bug theory.
