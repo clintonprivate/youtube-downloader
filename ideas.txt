@@ -1,1 +1,1 @@
-Segment issues. The pitches retrieved are mostly wrong. Onset detection is not correctly divided. Theoretically if could divide into pitch changes correctly. Duration tends to always be an issue. Check already written correct sheet music.
+Sometimes pitch detection mixes octaves. Segment issues. The pitches retrieved are mostly wrong. Onset detection is not correctly divided. Theoretically if could divide into pitch changes correctly. Duration tends to always be an issue. Check already written correct sheet music.
