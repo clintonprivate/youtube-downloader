@@ -1,1 +1,1 @@
-We can use the same principle. So instead of js, we'll use Python and you connect the audio input right back to laptop. What we want, just like with melody is to 
+We can use the same principle. So instead of js, we'll use Python and you connect the audio input right back to laptop. What we want, just like with melody is to get 10 single notes in a row right, then 10 double notes, and so on up to 4 notes at once. But when we get an accuracy of 10 simultaneous notes, it's completed.
