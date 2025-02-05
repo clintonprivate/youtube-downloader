@@ -1,0 +1,1 @@
+We can use the same principle. So instead of js, we'll use Python and you connect the audio input right back to laptop. What we want, just like with melody is to 
