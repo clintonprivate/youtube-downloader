@@ -1,1 +1,1 @@
-First we want a clean image to drawing script.
+First we want a clean image to drawing script with no shading.
