@@ -1,4 +1,4 @@
-One thing we can ask is, just get it to give this output. But that makes the task a little obvious.
+One thing we can ask is, just get it to give this output. But that makes the task a little obvious. We can take a segment we want to display an output. Ask a person to create machine learning that splits a song into phrases.
 
 We can just improve it until we find it difficult to think of any more adjustments and be skipping to the next phrase from now on. Results so far.
 ['-', 'F4', 'D#4', 'D#4', 'F4', 'F4', 'F4', 'F4', 'F4', 'F4', 'F4', 'G4', 'A#4', 'F4', 'F4', 'F4', 'C#4', 'C4', 'C#4', 'B4', 'C4', 'B4', 'A#4', 'A#4', 'D#4', 'D#4', 'E4', 'F4', 'B4']
