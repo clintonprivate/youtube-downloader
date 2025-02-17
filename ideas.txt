@@ -1,3 +1,5 @@
+Create a folder named challenges and do syllables separation on phrase.
+
 A challenge is compare 2 arrays and measure similarity.
 
 One thing we can ask is, just get it to give this output. But that makes the task a little obvious. We can take a segment we want to display an output. Ask a person to create machine learning that splits a song into phrases. Just ask for correct duration.
