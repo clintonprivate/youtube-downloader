@@ -1,3 +1,5 @@
+A challenge is compare 2 arrays and measure similarity.
+
 One thing we can ask is, just get it to give this output. But that makes the task a little obvious. We can take a segment we want to display an output. Ask a person to create machine learning that splits a song into phrases. Just ask for correct duration.
 
 We can just improve it until we find it difficult to think of any more adjustments and be skipping to the next phrase from now on. Results so far.
