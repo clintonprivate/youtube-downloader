@@ -1,4 +1,4 @@
-Melody similarity matching. Create a folder named challenges and do syllables separation on phrase.
+Melisma is what it's called when a note changes in the same syllable. Melody similarity matching. Create a folder named challenges and do syllables separation on phrase.
 
 A challenge is compare 2 arrays and measure similarity.
 
