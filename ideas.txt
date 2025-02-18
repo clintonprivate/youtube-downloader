@@ -2,6 +2,7 @@ Proven
 1. Sine wave transcription is 100% accurate.
 2. Create standalone duration accuracy calculator in GitHub as a Python script.
 3. Harmonics, gliding, vibrato, unvoiced sounds, harmonies in background make vocal transcription difficult.
+4. If harmonics of a chord were removed, it will interpreted as one note.
 
 Unproven
 1. Slowing down
