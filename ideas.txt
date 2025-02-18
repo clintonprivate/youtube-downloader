@@ -1,9 +1,3 @@
-Ideas ranked
-1. Test durations until transcription matches syllables again.
-2. Do similarity check after testing
-4. Manually convert drawing to pencil and save it. Draw guide points as a different color.
-20. Machine learning to compare audios.
-
-1. In what ways can we check the similarity between two audios? Test them in chatgpt directly.
-1. Visualize audio and sine wave in various ways using chatgpt.
+Proven
+1. We can split into words not syllables.
 
