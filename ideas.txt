@@ -3,6 +3,7 @@ Proven
 2. Create standalone duration accuracy calculator in GitHub as a Python script.
 3. Harmonics, gliding, vibrato, unvoiced sounds, harmonies in background make vocal transcription difficult.
 4. If harmonics of a chord were removed, it will interpreted as one note.
+5. A single note has only it's natural harmonics.
 
 Unproven
 1. Slowing down
