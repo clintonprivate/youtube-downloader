@@ -4,6 +4,7 @@ Proven
 3. Harmonics, gliding, vibrato, unvoiced sounds, harmonies in background make vocal transcription difficult.
 4. If harmonics of a chord were removed, it will interpreted as one note.
 5. A single note has only it's natural harmonics.
+6. For audio midi, if the pitch is fully or almost fully same note, its one note and if not, it's a dyad.
 
 Unproven
 1. Slowing down
