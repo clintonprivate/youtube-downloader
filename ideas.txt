@@ -4,4 +4,5 @@ Ideas ranked
 4. Manually convert drawing to pencil and save it. Draw guide points as a different color.
 
 1. In what ways can we check the similarity between two audios? Test them in chatgpt directly.
+1. Visualize audio and sine wave in various ways using chatgpt.
 
