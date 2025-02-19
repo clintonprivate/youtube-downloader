@@ -8,6 +8,7 @@ Proven
 7. Countering gliding is simply identifying sections where it occurs and picking which note to adjust all to. How you do it is up to you though.
 8. Countering vibrato is the same as countering gliding.
 9. Sometimes pitch is falsely identified or octaves is false due to harmonics. To counter this, understand and try different pitch detection methods. We'll come up with a better one later that involve removal from audio.
+10. Use AI to remove background singing.
 
 Unproven
 1. Slowing down
