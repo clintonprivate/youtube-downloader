@@ -5,6 +5,8 @@ Proven
 4. If harmonics of a chord were removed, it will interpreted as one note.
 5. A single note has only it's natural harmonics.
 6. For audio midi, if the pitch is fully or almost fully same note, its one note and if not, it's a dyad.
+7. Countering gliding is simply identifying it and picking which note to adjust all to. How you do it is up to you though.
+8. 
 
 Unproven
 1. Slowing down
