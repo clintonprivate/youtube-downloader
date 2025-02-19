@@ -8,3 +8,4 @@ Proven
 
 Unproven
 1. Slowing down
+2. Add harmonics to research.
