@@ -16,4 +16,4 @@ Unproven
 3. Online tool to further remove background singers.
 4. Check if unsubscribed from scraping website.
 5. (Ai) Online audio tools are very powerful.
-6. Next: Transcribe dreaming with chords using includeChords() method.
+6. Next: Transcribe dreaming with chords using includeChords() method. Transcribe another song and align arrays for measurement.
