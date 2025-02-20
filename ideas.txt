@@ -1,19 +1,2 @@
-Proven
-1. Sine wave transcription is 100% accurate.
-2. Create standalone duration accuracy calculator in GitHub as a Python script.
-3. Harmonics, gliding, vibrato, unvoiced sounds, harmonies in background make vocal transcription difficult.
-4. If harmonics of a chord were removed, it will interpreted as one note.
-5. A single note has only it's natural harmonics.
-6. For audio midi, if the pitch is fully or almost fully same note, its one note and if not, it's a dyad.
-7. Countering gliding is simply identifying sections where it occurs and picking which note to adjust all to. How you do it is up to you though.
-8. Countering vibrato is the same as countering gliding.
-9. Sometimes pitch is falsely identified or octaves is false due to harmonics. To counter this, understand and try different pitch detection methods. We'll come up with a better one later that involve removal from audio.
-10. Use AI to remove background singing.
-
-Unproven
-1. Slowing down
-2. Add harmonics to research.
-3. Online tool to further remove background singers.
-4. Check if unsubscribed from scraping website.
-5. (Ai) Online audio tools are very powerful.
-6. Next: Transcribe dreaming with chords using includeChords() method. Transcribe another song and align arrays for measurement.
+Alignment
+Audio duration to amount of measures.
