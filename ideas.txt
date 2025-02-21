@@ -5,3 +5,4 @@ How does chordify align it, does it skip some in the beginning of the video?
 - Download specifically colorful blue flame vocals audio.
 - Add that same video id to chords in python and java.
 - In order to align both, we need to know if anything is being skipped in the beginning or end of the same video. Mostly (likely) the beginning of the video/song.
+- Manually check if the position in time of the first chord starts at 0.0 seconds or not. If it doesn't then bring partially skipped in the beginning.
