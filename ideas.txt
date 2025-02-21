@@ -1,2 +1,5 @@
 Alignment
 Audio duration to amount of measures. Is it exact? Then that's not a coincidence. If not, trim front or back to make it exact?
+
+- Download specifically colorful blue flame vocals audio.
+- 
