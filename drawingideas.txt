@@ -1,4 +1,5 @@
 Categories
 1. Drawing a recognizable face.
 2. Drawing multiple recognizable faces.
-3. 
+3. Drawing a made up scene including a recognizable face.
+4. Drawing a real scene with plenty details.
