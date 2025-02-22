@@ -1,1 +1,3 @@
-First we want a clean image to drawing script with no shading.
+Categories
+1. Drawing a recognizable face.
+2. 
