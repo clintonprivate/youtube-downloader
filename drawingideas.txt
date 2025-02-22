@@ -1,3 +1,4 @@
 Categories
 1. Drawing a recognizable face.
-2. 
+2. Drawing multiple recognizable faces.
+3. 
