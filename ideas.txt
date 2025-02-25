@@ -1,2 +1,1 @@
-Use typescript specifically for generate training.js in stackblitz or...
-Generate the training in java implementing all the stats then commit to github and convert it to JavaScript for use in frontend.
+Unsubscribe from scrapingant and use free alternative method.
