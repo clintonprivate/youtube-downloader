@@ -9,4 +9,4 @@ Loop every 100 ms. If (<= center of blue line plus threshold and >= center of bl
 
 Upload to infinity free.
 
-Triplets, 
+Triplets, accelerando/ritardando, different chord quantity in treble and bass.
