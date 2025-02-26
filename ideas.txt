@@ -1,11 +1,6 @@
 Unsubscribe from scrapingant and use free alternative method.
-Detect note using a different method. HPS is good for octaves.
-Polyphonic: CQT, harmonic matching pursuit. Basically just try each of these and see which one has the highest percent and keep it as that.
 Measure automatically the similarity of each phase of the transcription.
 Should be able to compare note for note each phase of the transcription.
-Adjust octaves recognition.
-Remove the first 16 notes of current generated.
-Remove the first 16 notes of correct answer.
 
 Audio midi will have a threshold value which is how early/late playing the note is allowed in Ms or pixels.
 Loop every 100 ms. If (<= center of blue line plus threshold and >= center of blue line minus threshold) and expected note was played, color green, if not played, don't do anything. If (< center of blue line plus threshold and < center of blue line minus threshold), only then will we color it red to allow for flexibility.
