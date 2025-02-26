@@ -8,4 +8,6 @@ Remove the first 16 notes of current generated.
 Remove the first 16 notes of correct answer.
 
 Audio midi will have a threshold value which is how early/late playing the note is allowed in Ms or pixels.
-Loop every 100 ms. Check what note the user is currently playing. Display it in the GUI.
+Loop every 100 ms. If (<= center of blue line plus threshold and >= center of blue line minus threshold) and expected note was played, color green, if not played, don't do anything. If (< center of blue line plus threshold and < center of blue line minus threshold), only then will we color it red to allow for flexibility.
+
+Upload to infinity free.
