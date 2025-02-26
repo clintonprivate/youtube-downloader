@@ -7,4 +7,6 @@ Another method is to have known melody and estimate the duration, but how?
 Audio midi will have a threshold value which is how early/late playing the note is allowed in Ms or pixels.
 Loop every 100 ms. If (<= center of blue line plus threshold and >= center of blue line minus threshold) and expected note was played, color green, if not played, don't do anything. If (< center of blue line plus threshold and < center of blue line minus threshold), only then will we color it red to allow for flexibility.
 
+Add the URL parameters interval and duration.
+
 Upload to infinity free.
