@@ -2,11 +2,9 @@ Unsubscribe from scrapingant and use free alternative method.
 Measure automatically the similarity of each phase of the transcription.
 Should be able to compare note for note each phase of the transcription.
 
-Another method is to have known melody.
+Another method is to have known melody and estimate the duration, but how?
 
 Audio midi will have a threshold value which is how early/late playing the note is allowed in Ms or pixels.
 Loop every 100 ms. If (<= center of blue line plus threshold and >= center of blue line minus threshold) and expected note was played, color green, if not played, don't do anything. If (< center of blue line plus threshold and < center of blue line minus threshold), only then will we color it red to allow for flexibility.
 
 Upload to infinity free.
-
-Triplets, accelerando/ritardando, different chord quantity in treble and bass.
