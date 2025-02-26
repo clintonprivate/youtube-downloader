@@ -1,1 +1,8 @@
 Unsubscribe from scrapingant and use free alternative method.
+Detect note using a different method.
+Flexible note detection.
+Measure automatically the similarity of each phase of the transcription.
+Should be able to compare note for note each phase of the transcription.
+Adjust octaves recognition.
+Remove the first 16 notes of current generated.
+Remove the first 16 notes of correct answer.
