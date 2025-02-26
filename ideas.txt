@@ -1,6 +1,6 @@
 Unsubscribe from scrapingant and use free alternative method.
-Detect note using a different method. HPS and Crystal analysis is good for octaves.
-Polyphonic: CQT, Cepstral analysis, harmonic matching pursuit. Basically just try each of these and see which one has the highest percent and keep it as that.
+Detect note using a different method. HPS is good for octaves.
+Polyphonic: CQT, harmonic matching pursuit. Basically just try each of these and see which one has the highest percent and keep it as that.
 Measure automatically the similarity of each phase of the transcription.
 Should be able to compare note for note each phase of the transcription.
 Adjust octaves recognition.
