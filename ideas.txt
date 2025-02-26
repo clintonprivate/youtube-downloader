@@ -6,4 +6,6 @@ Should be able to compare note for note each phase of the transcription.
 Adjust octaves recognition.
 Remove the first 16 notes of current generated.
 Remove the first 16 notes of correct answer.
+
 Audio midi will have a threshold value which is how early/late playing the note is allowed in Ms or pixels.
+Loop every 100 ms.
