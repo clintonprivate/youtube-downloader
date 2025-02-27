@@ -7,5 +7,6 @@ We can also take the longest lasting notes and stretch them, then check the perc
 Or take the key, fill the array with that then check the percentage.
 We can only include notes whose duration is exactly the same value as a duration type in Ms.
 Do these in python, use java measure to compare and use one with highest percent.
+Music theory rules that makes right note likely.
 
 Create paper.html, paper.css, paper.js
