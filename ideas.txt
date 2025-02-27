@@ -4,4 +4,4 @@ Should be able to compare note for note each phase of the transcription.
 
 Another method is to have known melody and estimate the duration, but how?
 
-Create paper.html
+Create paper.html, paper.css, paper.js
