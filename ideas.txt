@@ -8,5 +8,6 @@ Or take the key, fill the array with that then check the percentage.
 We can only include notes whose duration is exactly the same value as a duration type in Ms.
 Do these in python, use java measure to compare and use one with highest percent.
 Music theory rules that makes right note likely.
+Take most prominent note in segment and fill treble with.
 
 Create paper.html, paper.css, paper.js
