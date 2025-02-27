@@ -6,5 +6,6 @@ Another method is to have known melody and estimate the duration, but how?
 We can also take the longest lasting notes and stretch them, then check the percentage.
 Or take the key, fill the array with that then check the percentage.
 We can only include notes whose duration is exactly the same value as a duration type in Ms.
+Do these in python, use java measure to compare and use one with highest percent.
 
 Create paper.html, paper.css, paper.js
