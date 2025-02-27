@@ -3,5 +3,7 @@ Measure automatically the similarity of each phase of the transcription.
 Should be able to compare note for note each phase of the transcription.
 
 Another method is to have known melody and estimate the duration, but how?
+We can also take the longest lasting notes and stretch them, then check the percentage.
+Or take the key, fill the array with that then check the percentage.
 
 Create paper.html, paper.css, paper.js
