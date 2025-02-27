@@ -9,5 +9,6 @@ We can only include notes whose duration is exactly the same value as a duration
 Do these in python, use java measure to compare and use one with highest percent.
 Music theory rules that makes right note likely.
 Take most prominent note in segment and fill treble with.
+Large leaps aren't common
 
 Create paper.html, paper.css, paper.js
