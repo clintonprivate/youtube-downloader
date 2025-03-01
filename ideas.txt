@@ -1,5 +1,6 @@
 Unsubscribe from scrapingant and use free alternative method.
 
-
+Print 24% result. We want to only add to it to increase percent.
+Print that then print regular note detection without any sort of processing.
 
 Create paper.html, paper.css, paper.js
