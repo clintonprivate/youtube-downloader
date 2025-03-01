@@ -2,5 +2,6 @@ Unsubscribe from scrapingant and use free alternative method.
 
 Print 24% result. We want to only add to it to increase percent.
 Print that then print regular note detection without any sort of processing.
+Octave ambiguity would be huge. Instead of changing note detection method, we can just confirm that the octave isnt 4 separately. Particularly ambiguity for B4, should be B3. It appears very frequently.
 
 Create paper.html, paper.css, paper.js
