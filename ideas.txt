@@ -1,5 +1,3 @@
-Unsubscribe from scrapingant and use free alternative method.
+1. Look for three octaves 3 segments far from each other, then the same for 4 and 5. Create and test octaves detection function in Python. Add as separate step in java and measure new percent. Afterward additionally check which one gives highest percent after changing repetition threshold. 4 or 6 after also checking for octaves ambiguity.
 
-Look for three octaves 3 segments far from each other, then the same for 4 and 5. Create and test octaves detection function in Python. Add as separate step in java and measure new percent. Afterward additionally check which one gives highest percent after changing repetition threshold. 4 or 6 after also checking for octaves ambiguity.
-
-We can create a detect notes class named detect notes 2. Its just a clone of the first one that will use a method suited for polyphony.
+2. We can create a detect notes class named detect notes 2. Its just a clone of the first one that will use a method suited for polyphony.
