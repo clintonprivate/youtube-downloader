@@ -1,3 +1,3 @@
 Unsubscribe from scrapingant and use free alternative method.
 
-Simple logic. Take the octaves that is the closest to you from the last note if there isn't a large rest in between.
+Look for three octaves 3 segments far from each other, then the same for 4 and 5. Create and test octaves detection function in Python. Add as separate step in java and measure new percent.
