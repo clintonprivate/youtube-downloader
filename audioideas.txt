@@ -1,3 +1,4 @@
 Unsubscribe from scrapingant and use free alternative method.
 
 Feature to include extra chords.
+In paper.html, we will display regular one from musescore.
