@@ -1,3 +1,4 @@
-1. Look for three octaves 3 segments far from each other, then the same for 4 and 5. Create and test octaves detection function in Python. Add as separate step in java and measure new percent. Afterward additionally check which one gives highest percent after changing repetition threshold. 4 or 6 after also checking for octaves ambiguity.
-
-2. We can create a detect notes class named detect notes 2. Its just a clone of the first one that will use a method suited for polyphony.
+1. In game.js, should keep score even after missing note. - Easy to implement. After adding can play melody of blue flame and improve score.
+2. Listen for highest and lowest note when a chord is played and use this to allow listening to treble and bass. - Difficult. Will allow to practice and actually play with both validation.
+3. Create review.html with the text 0. - Easy but not very important.
+4. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. - 
