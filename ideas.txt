@@ -1,4 +1,2 @@
-1. In game.js, should keep score even after missing note. - Easy to implement. After adding can play melody of blue flame and improve score.
 2. Listen for highest and lowest note when a chord is played and use this to allow listening to treble and bass. - Difficult. Will allow to practice and actually play with both validation.
-3. Create review.html with the text 0. - Easy but not very important.
-4. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. - 
+4. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. Will allow to play regular sheet music.
