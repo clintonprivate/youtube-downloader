@@ -1,2 +1,2 @@
-2. Listen for highest and lowest note when a chord is played and use this to allow listening to treble and bass. - Difficult. Will allow to practice and actually play with both validation.
-4. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. Will allow to play regular sheet music.
+1. Listen for highest and lowest note when a chord is played and use this to allow listening to treble and bass. - Difficult. Will allow to practice and actually play with both validation.
+2. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. Will allow to play regular sheet music.
