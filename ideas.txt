@@ -1,2 +1,2 @@
-1. Listen for highest and lowest note when a chord is played and use this to allow listening to treble and bass. - Difficult. Will allow to practice and actually play with both validation.
+1. When treble and bass are meant to be played at the same time, if a note in any is heard, the whole thing should be marked as correct. - Difficult. Will allow in a makeshift way to play treble and bass simultaneously.
 2. Generate chords not included in sheet music in both treble and bass clefs. - Difficult. Will allow to play regular sheet music.
