@@ -1,3 +1,2 @@
 1. Upload to infinity free. - Easy. This will promote adding regular sheet music features.
 2. When treble and bass are meant to be played at the same time, if a note in any is heard, the whole thing should be marked as correct. - Difficult. Will allow in a makeshift way to play treble and bass simultaneously.
-3. Pass game percent on to review.html.
