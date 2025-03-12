@@ -2,4 +2,4 @@
 
 2. Change the metronome sound to regular. - Easy.
 
-3. Check all the notes that can be heard in each syllable as segments. If not regular, then split syllable into two audios files keeping the note in one and changing to the new detected note in the other, or just splitting it for manual detection later, or both, automatic detection, then manual detection later.
+3. Check all the notes that can be heard in each syllable as segments. If not regular, then split syllable into two audios files keeping the note in one and changing to the new detected note in the other, or just splitting it for manual detection later, or both, automatic detection, then manual detection later. Adjust the threshold for it to count as a new note making sure that the accuracy increases instead of reduces after automatic detection.
