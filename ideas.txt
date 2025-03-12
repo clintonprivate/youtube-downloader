@@ -1,3 +1,5 @@
 1. When treble and bass are meant to be played at the same time, if a note in any is heard, the whole thing should be marked as correct. - Difficult. Will allow in a makeshift way to play treble and bass simultaneously.
 
-2. Reduce the accuracy to 80%. - Easy.
+2. Change the metronome sound to regular. - Easy.
+
+3. Check all the notes that can be heard in each syllable as segments. If not regular, then split syllable into two audios files keeping the note in one and changing to the new detected note in the other, or just splitting it for manual detection later.
