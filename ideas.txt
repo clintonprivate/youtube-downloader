@@ -2,4 +2,4 @@
 
 2. Change the metronome sound to regular. - Easy.
 
-3. Adjust achievement to 49%. Change to metronome. Set level 5 to 111 bpm. Replace Heya sheet music with one supporting 61 keys. Upload utils.js/file containing 775.
+3. Set level 5 to 111 bpm. Replace Heya sheet music with one supporting 61 keys. Upload utils.js/file containing 775.
