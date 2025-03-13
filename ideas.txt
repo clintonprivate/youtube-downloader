@@ -1,3 +1,3 @@
 1. When treble and bass are meant to be played at the same time, if a note in any is heard, the whole thing should be marked as correct. - Difficult. Will allow in a makeshift way to play treble and bass simultaneously.
 
-2. Replace Heya sheet music with one supporting 61 keys. Upload validation1.js/file containing 775. Change the metronome sound to regular.
+2. Replace Heya sheet music with one supporting 61 keys. Change the metronome sound to regular.
