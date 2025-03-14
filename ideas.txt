@@ -1,5 +1,4 @@
 1. Increase higher than 65% by removing melisma from correct result. Pick the final note.
-
 2. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai.
 
 3. 
