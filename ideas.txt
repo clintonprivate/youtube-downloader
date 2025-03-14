@@ -1,4 +1,4 @@
 1. Increase higher than 65% by removing melisma from correct result. Pick the final note.
 2. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai.
-3. Create code in java to retrieve lyrics and separate into syllables.
+3. Create code in java to retrieve lyrics and separate into syllables. Remove need for syllables timestamp variable in python.
 4. Adjust achievement to say: Played 200 notes correctly of treble clef.
