@@ -2,6 +2,6 @@
 2. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai.
 3. Create code in java to retrieve lyrics and separate into syllables. Remove need for syllables timestamp variable in python.
 4. Adjust achievement to say: Played 50% notes correctly of treble clef.
-5. Make change to validation2. Make change and document fixing practice.html. Make change 
+5. Make change to validation2. Make change and document fixing practice.html. Make change to showing which measure we're currently in.
 
 Direction: Continue to switch second sheet music to add new features till all common features are added. How will we develop our playing by then. By manually switching the song and playing 50% of it.
