@@ -1,3 +1,3 @@
 1. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai. Remove need for syllables timestamp variable in python.
 
-Fully fixing validation.
+Fully fixing validation. If coming note position of bass, it's distance to that of treble is very close, console log "both". Console log both positions before that. Replace "both" logging with combining all notes and saying correct.
