@@ -1,2 +1,4 @@
 1. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai. Remove need for syllables timestamp variable in python.
 2. Make change to validation2. Make change and document fixing practice.html. Change song in game.html.
+
+Having something to practice, fully fixing validation.
