@@ -1,6 +1,5 @@
 1. Increase higher than 65% by adjusting melisma. So syllables was done incorrectly and thats why its decreasing instead of increasing.
 2. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai.
 3. Create code in java to retrieve lyrics and separate into syllables. Remove need for syllables timestamp variable in python.
-5. Make change to validation2. Make change and document fixing practice.html. Make change to showing which measure we're currently in.
+5. Make change to validation2. Make change and document fixing practice.html. Make change to showing which measure we're currently in. Change song in game.html.
 
-Direction: Continue to switch second sheet music to add new features till all common features are added. How will we develop our playing by then. By manually switching the song and playing 50% of it.
