@@ -1,5 +1,5 @@
 1. Increase higher than 66% by accounting for melisma.
 2. Change pitch detection after it gets a row of 5 previously wrong notes correct using ai.
-3. Create code in java to retrieve lyrics and separate into syllables. Remove need for syllables timestamp variable in python.
+3. Create code in java to retrieve lyrics. Remove need for syllables timestamp variable in python.
 5. Make change to validation2. Make change and document fixing practice.html. For paper.html, add any midi file to the resources folder. Change song in game.html.
 
