@@ -1,2 +1,3 @@
 1. For melisma, first want to accurately detect which notes are melisma.
-2. Write down as new achievements: Triads in treble and bass with different durations. Tetrads. Bass one notes. Up to tetrads including dyads. Triplet notes. Ties between chords. 70 - 150 bpm.
+2. Write down as new achievements: Tetrads. Triplet notes.
+3. Update progress bar based on measure amount.
