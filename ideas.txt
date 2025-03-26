@@ -1,1 +1,1 @@
-1. Next gradual level: Like regular sheet music but a snippet of a song you like, then we put it in game.html.
+1. Next gradual level: Like regular sheet music but a snippet of a song you like, then we put it in game.html. It's a full phrase around 4 measures long.
