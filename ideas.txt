@@ -1,3 +1,1 @@
-1. For melisma, first want to accurately detect which notes are melisma.
-2. Write down as new achievements: Tetrads. Triplet notes.
-3. Update progress bar based on measure amount.
+1. Next gradual level: Like regular sheet music but a snippet of a song you like, then we put it in game.html.
