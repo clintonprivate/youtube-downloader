@@ -1,5 +1,5 @@
 1. Paper.html. - Highest since it's easy to move forward and improve a lot with it.
-2. Transcription. - Grants motivation and can already begin to sight read even wrong melody. Has a completion point.
-3. Backend - Grants motivation since input, output and can listen to different transcriptions. Uses transcription attempts to not make it feel like wasted effort.
+2. Backend - Grants motivation since input, output and can listen to different transcriptions. Uses transcription attempts to not make it feel like wasted effort.
+3. Transcription. - Grants motivation and can already begin to sight read even wrong melody. Has a completion point.
 4. practice.html - can use it to 
 5. audio midi. - unimportant
