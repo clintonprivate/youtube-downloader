@@ -1,2 +1,1 @@
-Fix and test validation.
-Generate tetrad version.
+Make bass chords tetrad and add generated notes in treble.
