@@ -1,2 +1,4 @@
 Make bass chords tetrad and add generated notes in treble without any filtering.
 Add glitch to list.
+
+We have to simplify the test song and then return it back to what it was.
