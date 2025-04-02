@@ -3,3 +3,5 @@ Add glitch to list.
 
 We have to simplify the test song and then return it back to what it was.
 Add triplet notes to the exercise.
+
+Then we'll begin adding an option to select a musescore link through URL parameter. It will simply display the first measure of the entire thing.
