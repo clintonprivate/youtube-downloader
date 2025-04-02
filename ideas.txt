@@ -1,1 +1,2 @@
 Make bass chords tetrad and add generated notes in treble without any filtering.
+Add glitch to list.
