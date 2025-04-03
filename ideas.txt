@@ -1,6 +1,3 @@
-Make bass chords tetrad and add generated notes in treble without any filtering.
-Add triplet notes to the exercise.
-
 We have to simplify the test song and then return it back to what it was.
 
 Then we practice simply by switching the song.
