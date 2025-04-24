@@ -1,1 +1,1 @@
-Consonants positions close to rhythms.
+1. Give it the correct rhythm of the phrase and it will detect the notes correct -> 
