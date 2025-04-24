@@ -1,1 +1,2 @@
-1. Give it the correct rhythm of the phrase and it will detect the notes correct -> 
+2. 
+1. Give it the correct rhythm of the phrase and it will detect the notes correct. Trim silence/noise at start and end -> Won't trim noise correctly.
