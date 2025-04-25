@@ -1,5 +1,5 @@
 Extras
-4. 
+4. Split into syllables and use the distance between them for note durations instead of overall.
 
 3. Manually split audio depending on where you hear the start of the next note and save online.
 2. Give the correct rhythm and use phonetic splitting to get notes.
