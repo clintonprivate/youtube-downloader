@@ -1,3 +1,7 @@
+Extras
+4. 
+
+3. Manually split audio depending on where you hear the start of the next note and save online.
 2. Give the correct rhythm and use phonetic splitting to get notes.
 1. Get the bpm using librosa and split into expected duration using that.
 
