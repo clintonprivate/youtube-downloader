@@ -1,2 +1,3 @@
+2. Give the correct rhythm and use phonetic splitting to get notes.
 1. Get the bpm using librosa and split into expected duration using that.
 
