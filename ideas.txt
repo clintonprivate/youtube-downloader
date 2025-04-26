@@ -1,3 +1,4 @@
 1. Give the correct rhythm and use phonetic splitting to get notes.
 2. If including only proper note durations and relative durations, the rhythm result is correct.
+3. Switch phrase, use syllable and implement more accurate syllables. Once correct, try more.
 
