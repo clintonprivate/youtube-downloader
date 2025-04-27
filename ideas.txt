@@ -1,2 +1,2 @@
-1. Extract phrase which includes 16th and eighth notes.
+1. Extract phrase which includes 16th and eighth notes. For very short notes like 2ms, adjust to eighth.
 
