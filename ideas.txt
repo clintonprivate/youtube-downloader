@@ -2,5 +2,4 @@ Extras:
 
 
 1. Extract phrase which includes 16th and eighth notes. For very short notes like 2ms, adjust to eighth.
-2. Try slowing down audio for more accurate syllables.
-3. Try onset to onset instead of syllable duration.
+2. Try onset to onset instead of syllable duration.
