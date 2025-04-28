@@ -1,1 +1,2 @@
 1. Manually split the syllables -> Round to nearest, lowest being eighth note -> Find 16th notes seperately
+2. To find 16, we can do loop through positions. If 16th note later the lowest - highest difference passes a threshold then it's a 16th note.
