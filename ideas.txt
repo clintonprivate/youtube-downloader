@@ -1,1 +1,2 @@
 1. Different method of splitting syllables is necessary, since can be inaccurate.
+2. Manually split the syllables.
