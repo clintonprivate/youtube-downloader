@@ -1,4 +1,4 @@
 1. Manually split the syllables -> Round to nearest, lowest being eighth note -> Find 16th notes seperately
-2. To find 16, we can do loop through positions. If 16th note later the lowest - highest difference passes a threshold then it's a 16th note.
+2. To find 16, we can do loop through positions. If 24ms later there are 2 peaks, its a 16th note.
 
 [0, 0.60, 0.72, 0.9, 1.2, 1.4, 2.48, 2.55, 2.67, 2.79, 3.03, 3.15, 3.4, 4.5]  # Example: split between 0-2.5s, 2.5-5s, 5-7s
