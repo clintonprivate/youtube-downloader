@@ -1,3 +1,6 @@
+Extras:
+4. Get second ranking.
+
 1. Just use waveform peaks to do splitting.
 2. Get word timestamp using whisper or similar. Do phoneme alignment on individual words to get syllable timestamp.
 3. Use the table to use different onset methods based on highest rank. Try first 3, while we get confirmation of reliability using a second phrase.
