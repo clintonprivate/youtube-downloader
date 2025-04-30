@@ -1,8 +1,4 @@
-Extras
-4. Split into 16th or 32nd note segments. Where high frequency is heard, that's a consonant. Where non noise is heard, that's a vowel. Use this to create syllable timestamps.
-
 1. Just use waveform peaks to do splitting.
 2. Get word timestamp using whisper or similar. Do phoneme alignment on individual words to get syllable timestamp.
-3. Do word splitting using phoneme then later do syllables on each word.
 
 [0, 0.60, 0.72, 0.9, 1.2, 1.4, 2.48, 2.55, 2.67, 2.79, 3.03, 3.15, 3.4, 4.5]
