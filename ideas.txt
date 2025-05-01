@@ -1,6 +1,7 @@
 Extras:
 4. Get the smallest amplitude in each 0.01 second, instead of first sample.
 5. Check if first sample is lower, then check average.
+6. Use syllable timestamps to validate.
 
 1. Begin by getting positions where amplitude is below 400, because there is very obviously quiet.
 2. Increase precision to 3 or 4 decimals.
