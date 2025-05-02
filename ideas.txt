@@ -3,7 +3,7 @@ Extras:
 5. Check if first sample is lower, then check average.
 6. Use syllable timestamps to validate.
 7. Note not contained in key, interval too much, too high octave, too low octave, unsure note. Octave ambiguity.
-8. If not octave 4 and confidence below 20% -> adjust to nearby confirmed note. If octave too high/low. Syllable long -> 
+8. If not octave 4 and confidence below 20% -> adjust to nearby confirmed note. If octave too high/low. Syllable long -> Final note adjusted to octave 4.
 
 1. Begin by getting positions where amplitude is below 400, because there is very obviously quiet.
 2. Increase precision to 3 or 4 decimals.
