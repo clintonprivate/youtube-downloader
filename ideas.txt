@@ -2,7 +2,7 @@ Extras:
 4. Get the smallest amplitude in each 0.01 second, instead of first sample.
 5. Check if first sample is lower, then check average.
 6. Use syllable timestamps to validate.
-7. If not octave 4 and confidence below 20%, if octave too high/low, if not contained in key and confidence below 20% -> adjust to nearby confirmed note. Syllable long -> Final note adjusted to octave 4.
+7. If not octave 4 and confidence below 80%, if octave too high/low, if not contained in key and confidence below 80% -> adjust to nearby confirmed note. Syllable long -> Final note adjusted to octave 4.
 
 1. Begin by getting positions where amplitude is below 400, because there is very obviously quiet.
 2. Increase precision to 3 or 4 decimals.
