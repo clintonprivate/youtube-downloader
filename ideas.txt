@@ -3,8 +3,7 @@
 3. Split using pitch change.
 
 4. Filter found with pitch change from contour.
-5. GitHub Projects related to transcription.
-6. Different phoneme library.
+7. Whisper can get word timestamps, so use that.
 
 [0, 0.60, 0.72, 0.9, 1.2, 1.4, 2.48, 2.55, 2.67, 2.79, 3.03, 3.15, 3.4, 4.5]
 [0, 1.18, 2.1, 2.4, 2.64, 3.1, 3.35, 3.6]
