@@ -5,5 +5,4 @@
 [G4, G4, G4, F#4, e4, a4, e4, e4, e4, e4, e4, e4, b4]
 
 [When you match syllables and low threshold, it is confirmed to end at the right place]
-[400 threshold first sample contains all plus more]
-[Spectral onset detection with adaptive thresholding and 60ms spacing contains all plus more]
+[Spectral onset detection contains all plus more with the least extras]
