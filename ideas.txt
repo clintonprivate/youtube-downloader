@@ -7,3 +7,4 @@
 [G4, G4, G4, F#4, e4, a4, e4, e4, e4, e4, e4, e4, b4]
 
 [When you match syllables and low threshold, it is confirmed to end at the right place]
+[400 threshold contains all plus more but needs to be filtered]
