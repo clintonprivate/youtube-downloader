@@ -5,5 +5,5 @@
 [G4, G4, G4, F#4, e4, a4, e4, e4, e4, e4, e4, e4, b4]
 
 [When you match syllables and low threshold, it is confirmed to end at the right place]
-[Spectral onset detection gets onset detection correct with more than 80% accuracy]
+[Spectral onset detection with RMS filtering gets onset detection correct with more than 85% accuracy]
 [Probabilistic yin pitch detection then replacing none with nearest ahead is more than 90% accurate]
