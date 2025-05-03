@@ -6,3 +6,4 @@
 
 [When you match syllables and low threshold, it is confirmed to end at the right place]
 [Spectral onset detection gets onset detection correct with more than 80% accuracy]
+[Librosa pyyin pitch detection then replacing none with nearest ahead is more than 90% accurate, excluding octave]
