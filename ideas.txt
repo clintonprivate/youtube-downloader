@@ -1,5 +1,5 @@
 Segment 9 - G#4 -> A4 (Note of final third)
-Segment 14 - A4 -> G4 (If contains low confidence in pitch contour...) (Detected sound is actually correct)
-Segment 18 - A4 -> G4
+Segment 14 - A4 -> G4 (Detected sound is actually correct)
+Segment 18 - A4 -> G4 (Adjust g#4 to G4 since it's the key)
 Segment 23 - D4 -> E4
 Segment 29 - G4 -> A4
