@@ -1,5 +1,5 @@
 Segment 9 - G#4 -> A4 (Note of final third)
 Segment 14 - A4 -> G4 (Low confidence sections is G4) (Detected sound is actually correct)
 Segment 18 - A4 -> G4 (Low confidence sections = Adjust g#4 to G4 since it's the key)
-Segment 23 - D4 -> E4
+Segment 23 - D4 -> E4 (Overall pitch not last valid)
 Segment 29 - G4 -> A4
