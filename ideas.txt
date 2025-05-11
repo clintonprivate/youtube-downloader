@@ -2,4 +2,4 @@ Segment 9 - A4
 Segment 14 - G4
 Segment 18 - G4
 Segment 23 - D4 -> E4
-Segment 29 - A4
+Segment 29 - G4 -> A4
