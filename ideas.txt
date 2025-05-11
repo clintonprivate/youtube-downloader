@@ -1,4 +1,4 @@
-Note of final third, none detected then G4, off key and low confidence 40% then whichever is closer
+Note of final third, none detected then G4, if low confidence 40% then overall pitch
 Segment 9 - G#4 -> A4 (Note of final third)
 Segment 14 - A4 -> G4 (Low confidence sections is G4) (Detected sound is actually correct)
 Segment 18 - A4 -> G4 (Low confidence sections = Adjust g#4 to G4 since it's the key)
