@@ -1,2 +1,3 @@
 Console log out current note every millisecond/listen function event.
-Include distance between last in ms
+Include distance between last in ms in the logging information.
+Store each different note detected as an item in a 2d array containing note and relative duration.
