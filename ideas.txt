@@ -1,1 +1,2 @@
 Console log out current note every millisecond/listen function event.
+Include distance between last in ms
