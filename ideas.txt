@@ -1,7 +1,0 @@
-Note of final third, if low confidence 40% then overall, still low then g4
-Segment 9 - G#4 -> A4
-Segment 14 - A4 -> G4
-Segment 18 - A4 -> G4
-Segment 23 - D4 -> E4
-Segment 29 - G4 -> A4
-Play sound of rhythm back as beat in python.
