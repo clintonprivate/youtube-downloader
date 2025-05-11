@@ -1,5 +1,6 @@
 Segment 9 - A4
-Segment 15 - G4
-Segment 19 - G4
+Segment 14 - G4
+Segment 18 - G4
+
 Segment 24 - A4
 Segment 29 - G4
