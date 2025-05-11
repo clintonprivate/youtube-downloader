@@ -1,3 +1,8 @@
 Console log out current note every millisecond/listen function event.
 Include distance between last in ms in the logging information.
 Store each different note detected as an item in a 2d array containing note and relative duration.
+Create python script to convert file such a 2d array.
+After background audio ends show percent matching.
+Simply delete all the measures except the first one.
+Optionally shorten the audio to match the first measure.
+
