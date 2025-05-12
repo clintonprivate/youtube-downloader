@@ -1,2 +1,2 @@
-Attempt to get 100% on c major scale.
+Adjust that it's possible to get 100% on c major scale.
 
