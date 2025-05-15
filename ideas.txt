@@ -1,4 +1,4 @@
-Adjust that it's possible to get 100% on c major scale.
-Reduce to three measures in audio and text.
+Adjust that it's possible to get 100% on c major scale. ✅
+Write all 20 achievements in the js.
 Retain and save only one measure of musescore.
-Adjusting achievements and its UI.
+Reduce to three measures in audio and text.
