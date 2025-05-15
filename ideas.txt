@@ -1,2 +1,4 @@
 Adjust that it's possible to get 100% on c major scale.
-
+Reduce to three measures in audio and text.
+Something about musescore.
+Adjusting achievements and its UI.
