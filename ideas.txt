@@ -1,2 +1,2 @@
-Adjust paper.html to be 4 measures of musescore.
+Adjust paper.html to be 4 measures of musescore. ✅
 Use virtual loop to confirm 100%.
