@@ -1,1 +1,2 @@
-Plot the waveform and divide the syllables visually.
+Plot the waveform and divide the syllables visually. <- Try again
+
