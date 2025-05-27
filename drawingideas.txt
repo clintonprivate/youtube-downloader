@@ -1,5 +1,0 @@
-Categories
-1. Drawing from reference (multiple recognizable faces, others, real scene with details)
-2. Drawing from imagination (multiple recognizable faces, others, real/made up scene with details)
-
-Delete previous images. Instead erase from outline everything except hair outline and face.
