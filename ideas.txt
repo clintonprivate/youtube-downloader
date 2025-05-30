@@ -1,1 +1,1 @@
-In those 10 examples, we track if the ratio is approaching what we expect, 2% of 0.01 seconds should be onsets. We also track how many of that one full song is correctly marked right and wrong.
+In those 10 examples, we track if the ratio is approaching what we expect, 2% of 0.01 seconds should be onsets. We also track how many of that one full song is correctly marked right and wrong. Also uniqueness of song.
