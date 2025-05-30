@@ -1,2 +1,4 @@
 Expand list to include all 900 0.01 seconds. This is to teach ratio.
-Expand list to include all 1800 0.01 seconds of two songs.
+Expand list to include all 1800 0.01 seconds of two songs. This is to have a bare minimum of generalization and ratio.
+Finally we'll expand to 1801 and constantly swap that last one to confirm generalization.
+We do this with a function called create dataset.
