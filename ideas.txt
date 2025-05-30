@@ -1,2 +1,2 @@
-Plot the waveform and divide the syllables visually. <- Try again
-Confirm certain onset times using syllables as a second check.
+Expand list to include all 900 0.01 seconds. This is to teach ratio.
+Expand list to include all 1800 0.01 seconds of two songs.
