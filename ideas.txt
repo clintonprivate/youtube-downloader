@@ -1,4 +1,1 @@
-Expand list to include all 900 0.01 seconds. This is to teach ratio.
-Expand list to include all 1800 0.01 seconds of two songs. This is to have a bare minimum of generalization and ratio.
-Finally we'll expand to 1801 and constantly swap that last one to confirm generalization.
-We do this with a function called create dataset.
+All we need is a function that tracks our responses to new onset questions, we can save those only in a file and overwrite when an onset answer has been repeated most often, the less often chosen answer is deleted. It does this until we have reached 99 percent accuracy.
