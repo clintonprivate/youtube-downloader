@@ -1,1 +1,9 @@
-In those 10 examples, we track if the ratio is approaching what we expect, 2% of 0.01 seconds should be onsets. We also track how many of that one full song is correctly marked right and wrong. Also uniqueness of song.
+18 chord starts match onsets
+We take the next onset from those
+And do pitch detection.
+First we want to hear whats there.
+So we do those steps and confirm if that
+was played at that point.
+Then simulate scrolling
+Additionally allow mobile and increase
+responsiveness.
