@@ -1,10 +1,6 @@
-Take each note and split with character
 Hand pick start times of measures and get
 the 32nd note found there. Just print for now
 Confirm manually if they are part of the
 chord.
-Upload what you have there instead.
-Upload the split chords to the
-second site.
 Try out a cloud pc/get the desktop and
 windows version.
