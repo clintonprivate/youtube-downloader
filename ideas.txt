@@ -1,6 +1,2 @@
-Hand pick start times of measures and get
-the 32nd note found there. Just print for now
-Confirm manually if they are part of the
-chord.
 Try out a cloud pc/get the desktop and
 windows version.
