@@ -1,3 +1,2 @@
-Transcribe the phrase in noteflight
-Manually split audio into syllables.
+Manually split phrase audio into syllables.
 Correct wrong notes.
