@@ -1,1 +1,3 @@
 Transcribe the phrase in noteflight
+Manually split audio into syllables.
+Correct wrong notes.
