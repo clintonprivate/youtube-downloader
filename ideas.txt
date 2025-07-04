@@ -1,2 +1,1 @@
-Manually split phrase audio into syllables.
-Correct wrong notes.
+Check chordify. On measures where the chord timing doesn't exactly match measure, there's a slight drift and you should find the most likely notes causing that drift and adjust as well as all the following notes. If the note that you are already aware of that is causing things gets fixed then you did it right.
