@@ -1,1 +1,1 @@
-If note is too high, adjust to tonic.
+Pitch based onset detection.
