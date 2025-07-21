@@ -1,1 +1,2 @@
-Pitch based onset detection.
+Add a 16th note every measure start.
+Add a 16th note every beat.
