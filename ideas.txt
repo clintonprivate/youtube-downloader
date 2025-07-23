@@ -1,2 +1,3 @@
 Manual singing speech to text where a segment is compared to reference.
 Manually describe what a segment sounds like.
+A feature in genetic programming can be stt transcription of segment.
