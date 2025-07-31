@@ -1,6 +1,2 @@
-Manual singing speech to text where a segment is compared to reference.
-Manually describe what a segment sounds like.
-A feature in genetic programming can be stt transcription of segment.
-Ask ai for next feature ideas and add them to list to be implemented and searched later
-Generate random words to come up feature ideas.
-Have AI create code for the features.
+1. Use largest whisper to transcribe song. Get phrase timestamps, then prune phrases that have too many notes.
+
